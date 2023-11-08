@@ -1,0 +1,447 @@
+# Este arquivo viminfo foi gerado pelo Vim 9.0.
+# Você pode editá-lo se for cuidadoso!
+
+# Viminfo version
+|1,4
+
+# Valor de 'encoding' quando este arquivo foi escrito
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Histórico de linha de comando (mais recente primeiro):
+:wq
+|2,0,1699473417,,"wq"
+:w
+|2,0,1699473135,,"w"
+:q
+|2,0,1698868052,,"q"
+:set nu
+|2,0,1698867746,,"set nu"
+:number list
+|2,0,1698867696,,"number list"
+:start list
+|2,0,1698867689,,"start list"
+:startlist
+|2,0,1698867677,,"startlist"
+:Q
+|2,0,1698866651,,"Q"
+:Wq
+|2,0,1698180293,,"Wq"
+
+# Histórico de expressões de busca (mais recente primeiro):
+
+# Histórico de expressões (mais recente primeiro):
+
+# Histórico de linha de entrada (mais recente primeiro):
+
+# Histórico de linha de debug (mais recente primeiro):
+
+# Registradores:
+""1	CHAR	0
+	
+		
+|3,1,1,0,2,0,1698179435,"","	"
+
+# Marcas nos arquivos:
+'0  24  43  ~/vector.c
+|4,48,24,43,1699473417,"~/vector.c"
+'1  13  4  ~/vector.c
+|4,49,13,4,1699473270,"~/vector.c"
+'2  13  4  ~/vector.c
+|4,50,13,4,1699473270,"~/vector.c"
+'3  27  0  ~/vector.c
+|4,51,27,0,1699473220,"~/vector.c"
+'4  27  0  ~/vector.c
+|4,52,27,0,1699473220,"~/vector.c"
+'5  27  0  ~/vector.c
+|4,53,27,0,1699473220,"~/vector.c"
+'6  27  0  ~/vector.c
+|4,54,27,0,1699473220,"~/vector.c"
+'7  1  0  ~/[Command Line]
+|4,55,1,0,1699473153,"~/[Command Line]"
+'8  1  0  ~/[Command Line]
+|4,56,1,0,1699473153,"~/[Command Line]"
+'9  23  16  ~/vector.c
+|4,57,23,16,1699473035,"~/vector.c"
+
+# Lista de saltos (mais recente primeiro):
+-'  24  43  ~/vector.c
+|4,39,24,43,1699473417,"~/vector.c"
+-'  13  4  ~/vector.c
+|4,39,13,4,1699473297,"~/vector.c"
+-'  13  4  ~/vector.c
+|4,39,13,4,1699473270,"~/vector.c"
+-'  27  0  ~/vector.c
+|4,39,27,0,1699473248,"~/vector.c"
+-'  27  0  ~/vector.c
+|4,39,27,0,1699473248,"~/vector.c"
+-'  27  0  ~/vector.c
+|4,39,27,0,1699473220,"~/vector.c"
+-'  1  0  ~/vector.c
+|4,39,1,0,1699473199,"~/vector.c"
+-'  1  0  ~/vector.c
+|4,39,1,0,1699473199,"~/vector.c"
+-'  1  0  ~/vector.c
+|4,39,1,0,1699473199,"~/vector.c"
+-'  1  0  ~/[Command Line]
+|4,39,1,0,1699473153,"~/[Command Line]"
+-'  1  0  ~/[Command Line]
+|4,39,1,0,1699473153,"~/[Command Line]"
+-'  1  0  ~/[Command Line]
+|4,39,1,0,1699473153,"~/[Command Line]"
+-'  1  0  ~/[Command Line]
+|4,39,1,0,1699473153,"~/[Command Line]"
+-'  1  0  ~/[Command Line]
+|4,39,1,0,1699473153,"~/[Command Line]"
+-'  23  16  ~/vector.c
+|4,39,23,16,1699473084,"~/vector.c"
+-'  23  16  ~/vector.c
+|4,39,23,16,1699473084,"~/vector.c"
+-'  23  16  ~/vector.c
+|4,39,23,16,1699473084,"~/vector.c"
+-'  23  16  ~/vector.c
+|4,39,23,16,1699473084,"~/vector.c"
+-'  23  16  ~/vector.c
+|4,39,23,16,1699473035,"~/vector.c"
+-'  10  23  ~/vector.c
+|4,39,10,23,1699472985,"~/vector.c"
+-'  10  23  ~/vector.c
+|4,39,10,23,1699472985,"~/vector.c"
+-'  10  23  ~/vector.c
+|4,39,10,23,1699472985,"~/vector.c"
+-'  10  23  ~/vector.c
+|4,39,10,23,1699472985,"~/vector.c"
+-'  10  23  ~/vector.c
+|4,39,10,23,1699472985,"~/vector.c"
+-'  10  23  ~/vector.c
+|4,39,10,23,1699472967,"~/vector.c"
+-'  14  20  ~/vector.c
+|4,39,14,20,1699472795,"~/vector.c"
+-'  14  20  ~/vector.c
+|4,39,14,20,1699472795,"~/vector.c"
+-'  14  20  ~/vector.c
+|4,39,14,20,1699472795,"~/vector.c"
+-'  14  20  ~/vector.c
+|4,39,14,20,1699472795,"~/vector.c"
+-'  14  20  ~/vector.c
+|4,39,14,20,1699472795,"~/vector.c"
+-'  14  20  ~/vector.c
+|4,39,14,20,1699472795,"~/vector.c"
+-'  12  20  ~/vector.c
+|4,39,12,20,1699472779,"~/vector.c"
+-'  12  20  ~/vector.c
+|4,39,12,20,1699472779,"~/vector.c"
+-'  12  20  ~/vector.c
+|4,39,12,20,1699472779,"~/vector.c"
+-'  12  20  ~/vector.c
+|4,39,12,20,1699472779,"~/vector.c"
+-'  12  20  ~/vector.c
+|4,39,12,20,1699472779,"~/vector.c"
+-'  12  20  ~/vector.c
+|4,39,12,20,1699472779,"~/vector.c"
+-'  25  21  ~/vector.c
+|4,39,25,21,1699472681,"~/vector.c"
+-'  25  21  ~/vector.c
+|4,39,25,21,1699472681,"~/vector.c"
+-'  25  21  ~/vector.c
+|4,39,25,21,1699472681,"~/vector.c"
+-'  25  21  ~/vector.c
+|4,39,25,21,1699472681,"~/vector.c"
+-'  25  21  ~/vector.c
+|4,39,25,21,1699472681,"~/vector.c"
+-'  23  21  ~/vector.c
+|4,39,23,21,1699472681,"~/vector.c"
+-'  23  21  ~/vector.c
+|4,39,23,21,1699472630,"~/vector.c"
+-'  1  0  ~/vector.c
+|4,39,1,0,1699471160,"~/vector.c"
+-'  1  0  ~/vector.c
+|4,39,1,0,1699471160,"~/vector.c"
+-'  1  0  ~/vector.c
+|4,39,1,0,1699471160,"~/vector.c"
+-'  1  0  ~/vector.c
+|4,39,1,0,1699471160,"~/vector.c"
+-'  1  0  ~/vector.c
+|4,39,1,0,1699471160,"~/vector.c"
+-'  8  45  ~/vetoor/vetooor.c
+|4,39,8,45,1698868117,"~/vetoor/vetooor.c"
+-'  8  45  ~/vetoor/vetooor.c
+|4,39,8,45,1698868117,"~/vetoor/vetooor.c"
+-'  8  45  ~/vetoor/vetooor.c
+|4,39,8,45,1698868117,"~/vetoor/vetooor.c"
+-'  8  45  ~/vetoor/vetooor.c
+|4,39,8,45,1698868117,"~/vetoor/vetooor.c"
+-'  8  45  ~/vetoor/vetooor.c
+|4,39,8,45,1698868117,"~/vetoor/vetooor.c"
+-'  8  45  ~/vetoor/vetooor.c
+|4,39,8,45,1698868117,"~/vetoor/vetooor.c"
+-'  8  45  ~/vetoor/vetooor.c
+|4,39,8,45,1698868117,"~/vetoor/vetooor.c"
+-'  8  45  ~/vetoor/vetooor.c
+|4,39,8,45,1698868117,"~/vetoor/vetooor.c"
+-'  8  45  ~/vetoor/vetooor.c
+|4,39,8,45,1698868117,"~/vetoor/vetooor.c"
+-'  8  45  ~/vetoor/vetooor.c
+|4,39,8,45,1698868117,"~/vetoor/vetooor.c"
+-'  8  45  ~/vetoor/vetooor.c
+|4,39,8,45,1698868117,"~/vetoor/vetooor.c"
+-'  8  45  ~/vetoor/vetooor.c
+|4,39,8,45,1698868117,"~/vetoor/vetooor.c"
+-'  8  45  ~/vetoor/vetooor.c
+|4,39,8,45,1698868117,"~/vetoor/vetooor.c"
+-'  8  45  ~/vetoor/vetooor.c
+|4,39,8,45,1698868117,"~/vetoor/vetooor.c"
+-'  8  45  ~/vetoor/vetooor.c
+|4,39,8,45,1698868117,"~/vetoor/vetooor.c"
+-'  8  45  ~/vetoor/vetooor.c
+|4,39,8,45,1698868117,"~/vetoor/vetooor.c"
+-'  8  45  ~/vetoor/vetooor.c
+|4,39,8,45,1698868117,"~/vetoor/vetooor.c"
+-'  8  45  ~/vetoor/vetooor.c
+|4,39,8,45,1698868117,"~/vetoor/vetooor.c"
+-'  8  45  ~/vetoor/vetooor.c
+|4,39,8,45,1698868117,"~/vetoor/vetooor.c"
+-'  8  45  ~/vetoor/vetooor.c
+|4,39,8,45,1698868117,"~/vetoor/vetooor.c"
+-'  8  45  ~/vetoor/vetooor.c
+|4,39,8,45,1698868117,"~/vetoor/vetooor.c"
+-'  8  45  ~/vetoor/vetooor.c
+|4,39,8,45,1698868117,"~/vetoor/vetooor.c"
+-'  8  45  ~/vetoor/vetooor.c
+|4,39,8,45,1698868117,"~/vetoor/vetooor.c"
+-'  8  45  ~/vetoor/vetooor.c
+|4,39,8,45,1698868117,"~/vetoor/vetooor.c"
+-'  8  45  ~/vetoor/vetooor.c
+|4,39,8,45,1698868117,"~/vetoor/vetooor.c"
+-'  8  45  ~/vetoor/vetooor.c
+|4,39,8,45,1698868117,"~/vetoor/vetooor.c"
+-'  8  45  ~/vetoor/vetooor.c
+|4,39,8,45,1698868117,"~/vetoor/vetooor.c"
+-'  8  45  ~/vetoor/vetooor.c
+|4,39,8,45,1698868117,"~/vetoor/vetooor.c"
+-'  8  45  ~/vetoor/vetooor.c
+|4,39,8,45,1698868117,"~/vetoor/vetooor.c"
+-'  8  45  ~/vetoor/vetooor.c
+|4,39,8,45,1698868117,"~/vetoor/vetooor.c"
+-'  8  45  ~/vetoor/vetooor.c
+|4,39,8,45,1698868117,"~/vetoor/vetooor.c"
+-'  8  45  ~/vetoor/vetooor.c
+|4,39,8,45,1698868117,"~/vetoor/vetooor.c"
+-'  8  45  ~/vetoor/vetooor.c
+|4,39,8,45,1698868117,"~/vetoor/vetooor.c"
+-'  8  45  ~/vetoor/vetooor.c
+|4,39,8,45,1698868117,"~/vetoor/vetooor.c"
+-'  8  45  ~/vetoor/vetooor.c
+|4,39,8,45,1698868117,"~/vetoor/vetooor.c"
+-'  8  45  ~/vetoor/vetooor.c
+|4,39,8,45,1698868117,"~/vetoor/vetooor.c"
+-'  8  45  ~/vetoor/vetooor.c
+|4,39,8,45,1698868117,"~/vetoor/vetooor.c"
+-'  8  45  ~/vetoor/vetooor.c
+|4,39,8,45,1698868117,"~/vetoor/vetooor.c"
+-'  8  45  ~/vetoor/vetooor.c
+|4,39,8,45,1698868117,"~/vetoor/vetooor.c"
+-'  8  45  ~/vetoor/vetooor.c
+|4,39,8,45,1698868117,"~/vetoor/vetooor.c"
+-'  8  45  ~/vetoor/vetooor.c
+|4,39,8,45,1698868117,"~/vetoor/vetooor.c"
+-'  8  45  ~/vetoor/vetooor.c
+|4,39,8,45,1698868117,"~/vetoor/vetooor.c"
+-'  8  45  ~/vetoor/vetooor.c
+|4,39,8,45,1698868117,"~/vetoor/vetooor.c"
+-'  8  45  ~/vetoor/vetooor.c
+|4,39,8,45,1698868117,"~/vetoor/vetooor.c"
+-'  8  45  ~/vetoor/vetooor.c
+|4,39,8,45,1698868117,"~/vetoor/vetooor.c"
+-'  8  45  ~/vetoor/vetooor.c
+|4,39,8,45,1698868117,"~/vetoor/vetooor.c"
+-'  8  45  ~/vetoor/vetooor.c
+|4,39,8,45,1698868117,"~/vetoor/vetooor.c"
+-'  8  45  ~/vetoor/vetooor.c
+|4,39,8,45,1698868117,"~/vetoor/vetooor.c"
+-'  8  45  ~/vetoor/vetooor.c
+|4,39,8,45,1698868117,"~/vetoor/vetooor.c"
+-'  8  45  ~/vetoor/vetooor.c
+|4,39,8,45,1698868117,"~/vetoor/vetooor.c"
+-'  8  45  ~/vetoor/vetooor.c
+|4,39,8,45,1698868117,"~/vetoor/vetooor.c"
+
+# Histórico de marcas nos arquivos (mais recente primeiro):
+
+> ~/vector.c
+	*	1699473414	0
+	"	24	43
+	^	24	44
+	.	24	41
+	+	26	0
+	+	23	21
+	+	24	55
+	+	22	30
+	+	6	11
+	+	15	23
+	+	16	13
+	+	17	21
+	+	18	11
+	+	24	30
+	+	24	53
+	+	16	3
+	+	18	19
+	+	14	5
+	+	9	17
+	+	13	22
+	+	14	20
+	+	18	7
+	+	17	7
+	+	16	11
+	+	17	19
+	+	24	38
+	+	24	25
+	+	12	0
+	+	10	23
+	+	23	16
+	+	4	32
+	+	28	0
+	+	4	32
+	+	27	0
+	+	13	4
+	+	24	30
+	+	25	0
+	+	24	41
+
+> ~/vetoor/vetooor.c
+	*	1698868081	0
+	"	8	45
+	^	6	0
+	.	8	45
+	+	58	2
+	+	47	0
+	+	5	38
+	+	4	8
+	+	57	0
+	+	5	61
+	+	5	38
+	+	5	89
+	+	5	88
+	+	5	102
+	+	5	110
+	+	5	99
+	+	5	111
+	+	5	22
+	+	5	77
+	+	5	140
+	+	5	23
+	+	4	24
+	+	21	0
+	+	6	41
+	+	6	60
+	+	5	0
+	+	6	80
+	+	6	59
+	+	6	85
+	+	6	63
+	+	6	100
+	+	6	43
+	+	6	168
+	+	6	158
+	+	6	241
+	+	6	79
+	+	6	102
+	+	6	125
+	+	6	148
+	+	6	173
+	+	6	197
+	+	7	7
+	+	6	253
+	+	6	293
+	+	6	196
+	+	6	221
+	+	6	243
+	+	6	266
+	+	6	299
+	+	5	6
+	+	14	21
+	+	20	0
+	+	6	206
+	+	6	41
+	+	11	0
+	+	58	0
+	+	6	160
+	+	6	183
+	+	6	206
+	+	6	229
+	+	6	252
+	+	6	275
+	+	6	66
+	+	6	89
+	+	6	112
+	+	6	135
+	+	6	158
+	+	6	0
+	+	6	181
+	+	6	204
+	+	6	227
+	+	6	250
+	+	6	272
+	+	7	0
+	+	8	45
+
+> ~/vetoor/vetor.c
+	*	1698868050	0
+	"	1	0
+
+> ~/vetoor/vetor
+	*	1698868032	0
+	"	1	0
+
+> ~/vetooor.c
+	*	1698866651	0
+	"	1	0
+
+> /usr/share/vim/vim90/doc/help.txt
+	*	1698785971	0
+	"	34	0
+
+> ~/vetor.c
+	*	1698783838	0
+	"	5	0
+	^	5	0
+	.	4	14
+	+	4	14
+
+> ~/calculadora.c
+	*	1698180981	0
+	"	12	20
+	^	2	19
+	.	10	1
+	+	41	0
+	+	32	158
+	+	32	194
+	+	32	35
+	+	32	6
+	+	19	10
+	+	18	13
+	+	21	0
+	+	20	6
+	+	24	5
+	+	20	9
+	+	23	5
+	+	32	0
+	+	31	34
+	+	32	7
+	+	31	34
+	+	12	11
+	+	22	10
+	+	32	7
+	+	40	0
+	+	38	40
+	+	39	0
+	+	38	15
+	+	6	3
+	+	8	3
+	+	7	12
+	+	9	0
+	+	1	18
+	+	2	18
+	+	10	1
